@@ -10,10 +10,8 @@ I learn how to use more functions and flet and python in general
 
 2. Code: upperlower.py
 
-when I thought flet would be not that entertainment 
-
 I created this random number generator using the range slider
 
 Very useful
 
-I learn a 
+I learn different ways to organize the code and change the appereance of it.
